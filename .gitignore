@@ -1,0 +1,11 @@
+# node modules
+/node_modules
+*/node_modules
+
+# production
+/build
+*/build
+
+# visual studio code
+/.vscode
+*/.vscode
